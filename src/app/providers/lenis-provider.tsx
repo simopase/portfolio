@@ -4,7 +4,7 @@ import { ReactLenis } from "lenis/react";
 import type { LenisRef } from 'lenis/react';
 
 import { FC, useRef, useEffect} from "react";
-import { cancelFrame, frame } from 'framer-motion';
+import { cancelFrame, frame } from 'motion/react';
 
 
 type LenisScrollProviderProps = {
