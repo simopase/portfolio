@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Rubik } from "next/font/google";
 import LenisScrollProvider from "./providers/lenis-provider";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "./globals.css";
 
 const rubik = Rubik({

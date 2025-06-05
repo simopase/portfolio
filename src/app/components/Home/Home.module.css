@@ -1,0 +1,12 @@
+.wrapper{
+    display: flex;
+    width: 200%;
+}
+.first{
+    width: 100%;
+
+}
+.second{
+    background-color: #818181;
+    width: 100%;
+}
